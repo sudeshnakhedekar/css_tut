@@ -1,0 +1,64 @@
+/*Selector {
+	Property: value;
+}*/
+
+body {
+	background-image: url("co img.jpg");
+background-size: cover;
+}
+h2   {
+	color: #8A1300;
+	text-align: center;
+	border: 4px solid #FFEC00;
+	cursor: pointer;
+
+}
+p{
+line-height: 5px; 
+font-style: italic;
+font-size: 22px;
+font-family: "Time New Roman" ,"Geargia";
+}
+
+p {
+	color: black;
+}
+
+p {
+	color: white;
+	border: solid black; 
+
+ 
+}
+  
+  img{
+  	float: right;
+  }
+
+  footer{
+  	clear: both;
+  	text-align: center;
+  }
+
+li {
+	list-style: none;
+	display: block;
+}
+
+
+
+.webtext {
+	border: 4px dashed black ;
+
+}
+
+.active{
+	color: pink;
+}
+
+#div1 {
+	background: rgba(0, 0, 2, 0.1); 
+}
+
+
+   
